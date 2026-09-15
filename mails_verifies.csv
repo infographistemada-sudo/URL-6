@@ -799,3 +799,103 @@ mikael.dherbomez@lausanne-palace.ch,lausanne-palace.ch,lausannepalace-ch02b.mail
 mikael.fernandes@sparkclub.fr,sparkclub.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 mike.blackmann@lvrivieraspa.com,lvrivieraspa.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
 mike.hu@raffles.com,raffles.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+mike.ribeiro@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+mila@morin-wellness.fr,morin-wellness.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+milena.foucher@saintjamesparis.com,saintjamesparis.com,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+milly.charpentier@caliceo.com,caliceo.com,caliceo-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mimoun.ziani@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+mina.parkpinon@hotelbb.com,hotelbb.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+minissola@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+mireille.relandeau@adagio-apartements.com,adagio-apartements.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mireille@racine-souschef.fr,racine-souschef.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+mirentxu.suhas@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <mirentxu.suhas@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+mirna.chongaud@stregis.com,stregis.com,stregis-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mirna.klai@residhotel.com,residhotel.com,residhotel-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+miss.kriss@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+missen.wu@pic-group.fr,pic-group.fr,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [135.232.216.64] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/135.232.216.64)",Incertain
+mjeauneau@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+ml.devilliez@grape-hospitality.com,grape-hospitality.com,grapehospitality-com01c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+ml.ersine@bastidedulaizon.fr,bastidedulaizon.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+ml.tollinchi@hotel-fontaine.com,hotel-fontaine.com,ex5.mail.ovh.net,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+ml.wacheux@zenitude-groupe.com,zenitude-groupe.com,protect.oci.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+mleborgne@groupe-atlantic.com,groupe-atlantic.com,mxb-004f0402.gslb.pphosted.com,Non,Valide (SMTP 250),Valide
+mlebras@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+mledo@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+mlehmann@hotel-brittany.com,hotel-brittany.com,SMTP.GOOGLE.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+mlepage@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+mlesage@alliancepornic.com,alliancepornic.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mlpessino@hotelbelleplage.fr,hotelbelleplage.fr,hotelbelleplage-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mmanguine@sbm.mc,sbm.mc,mxa-0085f401.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+mmauret@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+mmedeau@chevalblanc.com,chevalblanc.com,mxb-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+mmotte@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+mmourot@chateau-st-martin.com,chateau-st-martin.com,chateaustmartin-com01ie.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mmunier@sbm.mc,sbm.mc,mxa-0085f401.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+mn.charial@baumaniere.com,baumaniere.com,mx-mibc-fr-05.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+mnectoux@coquillade.fr,coquillade.fr,coquillade-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mnocodie@diormail.com,diormail.com,mxa-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+moammar.benhajsalem@lescale.fr,lescale.fr,wstudio.powermail.fr,Non,Incertain (Code 553 : no user here by that name),Incertain
+modibo.konte@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+moezmathieu.benzid@hotelbb.com,hotelbb.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+mohamed.meddeb@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <mohamed.meddeb@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+mohamed.saidane@svelteo.fr,svelteo.fr,mx.webmo.fr,Non,Inexistant (SMTP 550),Inexistant
+mohamed.taoubas@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mohamed.youbel@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+mohamed.zaari@bestwestern.fr,bestwestern.fr,bestwestern-mx1.titanhq.com,Non,Inexistant (SMTP 550),Inexistant
+mohamedali.rezgui@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <mohamedali.rezgui@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+mohammed.lahlou@machefert.com,machefert.com,machefert-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mohsen.aissi@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <mohsen.aissi@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+mon@neospa-gerance.fr,neospa-gerance.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+mona.fendri@synergieligne.fr,synergieligne.fr,mc01.ouvaton.coop,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+monica.prezioso@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+monika@monikamoserconsulting.com,monikamoserconsulting.com,mx01.mail.icloud.com,Non,Inexistant (SMTP 550),Inexistant
+monique@fogang-entreprise.fr,fogang-entreprise.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+morane.gaudin@alaena-cosmetics.com,alaena-cosmetics.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+morgan.bocquet@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <morgan.bocquet@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+morgan.l@happyculture.com,happyculture.com,happyculture-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+morgan.o@oceaniahotels.com,oceaniahotels.com,oceaniahotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+morgan@feelsozen.fr,feelsozen.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane.breuil@lemhotel.com,lemhotel.com,mail.lemhotel.com,Non,Incertain (Code 554 : 5.7.1 <morgane.breuil@lemhotel.com>: Relay access denied),Incertain
+morgane.carre@thalazur.fr,thalazur.fr,mx2.coaxis.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+morgane.chappaz@suranespa38.fr,suranespa38.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane.clerc@lesbainsdhygie.fr,lesbainsdhygie.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+morgane.darsonval@assasotels.com,assasotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane.dufey@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+morgane.floch@thalasso-valdys.com,thalasso-valdys.com,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane.franchi@lvrivieraspa.com,lvrivieraspa.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+morgane.hamour@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <morgane.hamour@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+morgane.houdelette@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+morgane.lafrance@disney.com,disney.com,disney-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+morgane.lecoz@villasaintantoine.com,villasaintantoine.com,mail.mymail.eu.com,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [135.232.216.64] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/135.232.216.64)",Incertain
+morgane.lejeune@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+morgane.lemee@thalasso-valdys.com,thalasso-valdys.com,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane.lepage@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+morgane.loze@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+morgane.micheneau@aquatonic.fr,aquatonic.fr,mx01.cloud.vadesecure.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+morgane.ollivier@kimptonparis.com,kimptonparis.com,mx1.daemonmail.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+morgane.phi@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <morgane.phi@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+morgane.picot@hotelhelios.fr,hotelhelios.fr,hotelhelios-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+morgane.poignant@raffles.com,raffles.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <morgane.poignant@raffles.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+morgane@edc-spamanagement.com,edc-spamanagement.com,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane@greenbeerspa.fr,greenbeerspa.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [135.232.216.64])",Incertain
+morgane@higuet-esthetique.fr,higuet-esthetique.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane@malaboeuf-nanny.fr,malaboeuf-nanny.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane@ridolfo-hebergement.fr,ridolfo-hebergement.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+morgane@zeneden.fr,zeneden.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+morgann.dewez@hotelmarinca.com,hotelmarinca.com,,,Impossible (résolution MX échouée),Impossible (MX)
+moulie.gorbet@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-2.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+mouna.dalal@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+mourad.elghoul@mmv.fr,mmv.fr,mmv-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+moziol@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+mp.augier@igesa.fr,igesa.fr,igesa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mperouzel@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+mpetiteau@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+mportugal@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+mpouzet@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+mqayum.minhas@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <mqayum.minhas@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+mreinhard@chainethermale.fr,chainethermale.fr,mail-relay01-inetum.chainethermale.fr,Non,Valide (SMTP 250),Valide
+mrenvoise@lenegresco.com,lenegresco.com,lenegresco-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mruze@groupe-atlantic.com,groupe-atlantic.com,mxb-004f0402.gslb.pphosted.com,Non,Valide (SMTP 250),Valide
+msalle@diormail.com,diormail.com,mxa-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+msoulet@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+mthibault@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
